@@ -11,7 +11,7 @@
 ### 조건문
 1. if
 2. continue / break
-3. switch
+3. switch case
 ### 함수
 1. 반환값이 없을때 & 반환값이 있을때
 2. 전달값이 없을때 & 전달값이 있을때
